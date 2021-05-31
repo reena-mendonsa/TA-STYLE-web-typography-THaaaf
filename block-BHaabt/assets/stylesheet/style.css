@@ -275,3 +275,12 @@ h1,h2 ,h3,h4,h5,h6{
     font-weight:500;
     
 }
+
+.end{
+    background-color: #2c2640;
+    padding:30px 0;
+    color:#b7b7b9;
+    font-size: 18px;
+    display: flex;
+    justify-content: center;
+}
